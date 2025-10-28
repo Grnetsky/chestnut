@@ -1,0 +1,14 @@
+{
+  "name": "@chestnut/parser-svg",
+  "version": "1.0.0",
+  "description": "SVG parser for chestnut",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}

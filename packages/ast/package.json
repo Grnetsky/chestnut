@@ -1,0 +1,14 @@
+{
+  "name": "@chestnut/ast",
+  "version": "1.0.0",
+  "description": "AST utilities for chestnut",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
