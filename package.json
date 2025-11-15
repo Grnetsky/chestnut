@@ -1,7 +1,7 @@
 {
   "name": "chestnut",
-  "version": "1.0.0",
-  "description": "A monorepo for chestnut project",
+  "version": "0.0.1",
+  "description": "chestnut",
   "private": true,
   "scripts": {
     "build": "pnpm -r build",
