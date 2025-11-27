@@ -1,10 +1,11 @@
-import {Point} from "./lineTo";
+import {Point} from "./point";
 
 export interface ArcTo {
-    center: Point
+    centerPoint: Point
     radius: number,
     startAngle: number,
     endAngle: number,
-    startPosition: Point
-    endPosition: Point
+    startPoint: Point
+    endPoint: Point,
+
 }
